@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hay there ! I'm Udith Jayasinghe 👋
 
 <!--
 **udith97/udith97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
