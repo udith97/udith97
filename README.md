@@ -1,6 +1,7 @@
 ### Hay there ! I'm Udith Jayasinghe 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udith97&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udith97&layout=compact)
+![Anurag's GitHub stats]<a align="center"(https://github-readme-stats.vercel.app/api?username=udith97&theme=dark&show_icons=true) />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udith97&layout=compact)
 
 
 
