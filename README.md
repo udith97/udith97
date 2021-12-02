@@ -48,7 +48,7 @@
 <br>
   <br>
   
-[![Udith's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=udith97&theme=tokyonight)](https://git.io/praveenscience)
+[![Udith's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=udith97&theme=rogue)](https://git.io/praveenscience)
 
 | ![Udith's github stats](https://github-readme-stats.vercel.app/api?username=udith97&show_icons=true&theme=tokyonight) | ![Udith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udith97&theme=tokyonight) |
 | --- | --- |
