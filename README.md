@@ -8,9 +8,11 @@
 
 <div size='20px'> Hi there ! I'm Udith. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-
-<img width="75%" align="center" alt="Github" src = "https://media-exp1.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1648080000&v=beta&t=hWcdz506Y5Y0nCJZJ9ZXdsRNfDkxSJXTSsfYZqUf_oQ" width = 100px>
-
+<br>
+ <br>
+<img width="100%" align="center" alt="Github" src = "https://media-exp1.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1648080000&v=beta&t=hWcdz506Y5Y0nCJZJ9ZXdsRNfDkxSJXTSsfYZqUf_oQ" width = 100px>
+<br>
+  <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working as a Software Engeer Intern
