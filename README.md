@@ -23,7 +23,7 @@
   
 - ⚡ Fun fact: I'm a MARVEL fan.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media-exp1.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1648080000&v=beta&t=hWcdz506Y5Y0nCJZJ9ZXdsRNfDkxSJXTSsfYZqUf_oQ" width = 32px> </h2>
   <a href= https://github.com/udith97?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
   <a href= https://github.com/udith97?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href= https://github.com/udith97?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
