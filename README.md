@@ -10,7 +10,7 @@
 </div>
 <br>
  <br>
-<img width="100%" align="center" alt="Github" src = "https://media-exp1.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1648080000&v=beta&t=hWcdz506Y5Y0nCJZJ9ZXdsRNfDkxSJXTSsfYZqUf_oQ" width = 100px>
+<img width="100%" align="center" alt="Github" src = "https://media-exp2.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1662595200&v=beta&t=eGydGNsf1HnK8vxnkc9I-UERbZLupxcWrzA2m742cj4" width = 100px>
 <br>
   <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
