@@ -55,5 +55,8 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udith97&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=udith97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
 <br>
+
+<h2> GitHub Trophies </h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=udith97">
+</p>
