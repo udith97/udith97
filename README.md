@@ -2,26 +2,22 @@
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=udith97.udith97)
 [![Github](https://img.shields.io/github/followers/udith97?label=Follow&style=social)](https://github.com/udith97)
 
 <div size='20px'> Hi there ! I'm Udith. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br>
- <br>
-<img width="100%" align="center" alt="Github" src = "https://media-exp2.licdn.com/dms/image/C5616AQHv-sri4hIekQ/profile-displaybackgroundimage-shrink_350_1400/0/1642495395935?e=1662595200&v=beta&t=eGydGNsf1HnK8vxnkc9I-UERbZLupxcWrzA2m742cj4" width = 100px>
 <br>
   <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a Software Engeer Intern
+- 🔭 I’m currently working as a Associate Software Engineer - Mobile
   
-- 🌱 I’m currently learning Flutter, React, .NET
+- 🌱 I’m currently learning React Native, Objective-C, Kotlin
   
 - 👯 I’m looking to collaborate on Android Projects
   
-- 💬 Ask me about Android Studio, Firebase, Java, C#, JavaScript
+- 💬 Ask me about Android Studio, Firebase, Java, Flutter
   
 - ⚡ Fun fact: I'm a MARVEL fan.
 
