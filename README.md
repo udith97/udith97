@@ -25,6 +25,4 @@ Here’s a snapshot of my contributions and activity on GitHub.
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/udith-jayasinghe](https://www.linkedin.com/in/udith-jayasinghe-350b21136/))
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@udith-jayasinghe)
+## 📬 Connect with Me : udith_madushan@yahoo.com
