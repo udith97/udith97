@@ -76,9 +76,6 @@ I enjoy building **end-to-end solutions** — from intuitive mobile user interfa
   </a>
 </p>
 
-🔗 **Medium:**  
-👉 https://medium.com/@udith_madushan
-
 ---
 
 ## 🤝 Let’s Connect
