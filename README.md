@@ -84,8 +84,8 @@ I enjoy building **end-to-end solutions** — from intuitive mobile user interfa
   <a href="mailto:udith_madushan@yahoo.com">
     <img src="https://img.shields.io/badge/Email-udith__madushan@yahoo.com-red?style=for-the-badge"/>
   </a>
-  <!-- Replace with your LinkedIn URL -->
-  <a href="#">
+  
+  <a href="www.linkedin.com/in/udith-jayasinghe-350b21136">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
